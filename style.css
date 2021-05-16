@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/* CSS Document */
+body {
+  text-align: center;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.intro {
+	margin-top: 25%;
+	margin-bottom: 25%;
+  /*  background-image: url("/resource/sdg_poster_ja_2021.png")*/
+}
+.intro h1 {
+  font-size: 45px;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 400;
+}
+.intro p {
+  font-size: 20px;
+  font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 300;
+}
+
+.about_sdgs {
+	margin: 100px;
+}
+
+.about_sdgs h2 {
+	font-weight: 300;
+	font-size: 30px;
+}
+
+.about_sdgs p {
+	font-weight: 100;
+	font-size: 20px;
+}
+
+.about_sdgs .bold {
+	font-weight: 400;
+}
+
+.about_sdgs small {
+	font-weight: 100;
+	font-size: 15px;
+}
+
+.example_sdgs {
+	margin: 100px;
+}
+
+.example_sdgs h2 {
+	font-weight: 300;
+	font-size: 30px;
+}
+
+.example_sdgs h3 {
+	margin-top: 24px;
+	font-weight: 300;
+	font-size: 25px;
+}
+
+.example_sdgs p {
+	font-weight: 100;
+	font-size: 20px;
+}
+
+.example_sdgs .reason {
+	font-weight: 400;
+	font-size: 22px;
+}
+
+.example_sdgs .bold {
+	font-weight: 400;
+}
+
+.example_sdgs small {
+	font-weight: 100;
+	font-size: 15px;
+}
+
+img {
+  height: 600px;
+  text-align: center;
+}
